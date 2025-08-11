@@ -1,6 +1,6 @@
 # Wizprat
 
-**`Junior Mobile Developer with Flutter`**
+**`Mobile Developer with Flutter`**
 
 ### Languages and Tools
 
